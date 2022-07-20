@@ -10,6 +10,8 @@
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
+- 🍵  I’m currently working on JAVA project
+
 - 👨‍💻 All of my projects are available at **[My Portfolio]()**
 
 - 📫 How to reach me **dhyanpatel1509@gmail.com**
